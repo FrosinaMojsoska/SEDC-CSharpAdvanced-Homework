@@ -1,0 +1,7 @@
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\bin\Debug\Task1.exe.config
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\bin\Debug\Task1.exe
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\bin\Debug\Task1.pdb
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\obj\Debug\Task1.exe
+C:\Users\Win 8.1\source\repos\Homework2CSharpAdvanced\Task1\obj\Debug\Task1.pdb
