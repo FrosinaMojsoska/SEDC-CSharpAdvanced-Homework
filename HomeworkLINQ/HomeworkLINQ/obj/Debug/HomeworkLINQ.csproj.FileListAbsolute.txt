@@ -1,0 +1,10 @@
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\bin\Debug\HomeworkLINQ.exe.config
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\bin\Debug\HomeworkLINQ.exe
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\bin\Debug\HomeworkLINQ.pdb
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\bin\Debug\Entities for Homework.dll
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\bin\Debug\Entities for Homework.pdb
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\obj\Debug\HomeworkLINQ.csprojAssemblyReference.cache
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\obj\Debug\HomeworkLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\obj\Debug\HomeworkLINQ.csproj.CopyComplete
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\obj\Debug\HomeworkLINQ.exe
+C:\Users\Win 8.1\Desktop\HomeworkLINQ\HomeworkLINQ\obj\Debug\HomeworkLINQ.pdb
